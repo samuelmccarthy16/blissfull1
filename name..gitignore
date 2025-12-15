@@ -1,0 +1,24 @@
+# Ignore user system directories
+AppData/
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+главное меню/
+
+# Ignore Chrome user data
+AppData/Local/Google/Chrome/User Data/
+
+# Ignore history and temporary files
+History/
+Temporary Internet Files/
+
+# Ignore other user-specific folders
+Roaming/Microsoft/Windows/Start Menu/
+Мои видеозаписи/
+мои рисунки/
+Моя музыка/
